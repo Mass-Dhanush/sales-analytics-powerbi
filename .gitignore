@@ -1,0 +1,17 @@
+# Power BI temporary files
+*.tmp
+*.temp
+~$*
+
+# Power BI local/cache folders
+.pbi/
+
+# Windows files
+Thumbs.db
+desktop.ini
+
+# macOS files
+.DS_Store
+
+# Editor files
+.vscode/
